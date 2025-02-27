@@ -9,4 +9,4 @@ Stretch goals for this project include:
 - Implementing user authentication
 - Accepting memes from the api that are known to have more than two text box areas
 
-Questions? Comments? Reach out to daphinora at jack.danielle.mitchell@gmail.com
+Questions? Comments? Reach out to daphinora at manikalaphanikumar@gmail.com
